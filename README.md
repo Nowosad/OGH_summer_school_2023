@@ -4,9 +4,11 @@
 
 ### Robin Lovelace: "Tidy geographic data with sf, dplyr, ggplot2, geos and friends"
 
-- [Workshop materials]()
+- [Workshop materials](https://github.com/Robinlovelace/opengeohub2023)
 
 ### Michael Dorman: "Introduction to working with spatial data in Python"
+
+- [Workshop materials](https://geobgu.xyz/presentations/p_2023_ogh/)
 
 ### Edzer Pebesma: "Raster and vector data cubes in R"
 
@@ -18,13 +20,19 @@
 
 ### Roger Bivand: "Progress in modernizing and replacing infrastructure packages in R-spatial workflows"
 
+- [Workshop materials](https://r-spatial.github.io/evolution/ogh23_bivand.html)
+
 ### Lorena Abad: "Tools and packages to query and process Sentinel-1 and Sentinel-2 data with R and Python"
 
 - [Workshop materials](https://github.com/loreabad6/ogh23)
 
 ### Caitlin Haedrich: "Parallelization of geoprocessing workflows in GRASS GIS and Python"
 
+- [Workshop materials](https://github.com/ncsu-geoforall-lab/opengeohub-2023)
+
 ###  Ewa Grabska-Szwagrzyk: "Environmental analysis using satellite image time series"
+
+- [Workshop materials](https://github.com/egrabska/OGH2023)
 
 ###  Alicja Balfanz: "xcube for spatiotemporal data analysis and visualization"
 
