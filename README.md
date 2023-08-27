@@ -14,6 +14,8 @@
 
 ### Marteen Pronk: "Processing geospatial data using JuliaGeo framework"
 
+- [Workshop materials](https://github.com/evetion/OGH2023)
+
 ### Krzysztof Dyba: "Unsupervised classification (clustering) of satellite images"
 
 - [Workshop materials](https://kadyb.github.io/OGH2023/)
