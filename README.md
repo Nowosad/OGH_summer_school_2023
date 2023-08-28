@@ -12,6 +12,8 @@
 
 ### Edzer Pebesma: "Raster and vector data cubes in R"
 
+- [Workshop materials](https://github.com/edzer/OGH23)
+
 ### Marteen Pronk: "Processing geospatial data using JuliaGeo framework"
 
 - [Workshop materials](https://github.com/evetion/OGH2023)
@@ -36,7 +38,7 @@
 
 - [Workshop materials](https://github.com/egrabska/OGH2023)
 
-###  Alicja Balfanz: "xcube for spatiotemporal data analysis and visualization"
+### Alicja Balfanz: "xcube for spatiotemporal data analysis and visualization"
 
 ### Alexander Brenning: "Spatial ML model assessment and interpretation"
 
