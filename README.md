@@ -46,6 +46,8 @@
 
 ### Edzer Pebesma: "Cloud-based analysis of Earth Observation data using openEO Platform, R and Python"
 
+- [Workshop materials](https://github.com/edzer/OGH23)
+
 ### Anita Graser: "Data engineering for Mobility Data Science (with Python and DVC)"
 
 - [Workshop materials](https://github.com/movingpandas/movingpandas-examples/tree/opengeohub2023)
