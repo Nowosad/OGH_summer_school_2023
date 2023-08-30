@@ -55,3 +55,5 @@
 - [Workshop materials](https://github.com/movingpandas/movingpandas-examples/tree/opengeohub2023)
 
 ### Robin Lovelace: "Processing large OpenStreetMap datasets for geocomputational research"
+
+- [Workshop materials](https://github.com/Robinlovelace/opengeohub2023)
