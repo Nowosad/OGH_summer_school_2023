@@ -42,6 +42,8 @@
 
 ### Alexander Brenning: "Spatial ML model assessment and interpretation"
 
+- [Workshop materials](https://github.com/alexanderbrenning/ogh23_ml)
+
 ### Jarosław Jasiewicz: "Mapping explanation - Python toolchaing for spatial interpretative machine learning"
 
 ### Edzer Pebesma: "Cloud-based analysis of Earth Observation data using openEO Platform, R and Python"
