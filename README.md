@@ -83,7 +83,7 @@
 
 - [Video](https://doi.org/10.5446/63363)
 - [Workshop materials](https://jakubnowosad.com/ogh2023)
-- 
+  
 ### Misc
 
 - [Interviews](https://av.tib.eu/series/1519/experts+interviews+opengeohub+summer+school)
